@@ -218,19 +218,6 @@ What is the person holding?
 
 ---
 
-# Sample Screenshots
-
-Add screenshots of your Streamlit app here.
-
-```text
-assets/screenshots/home.png
-assets/screenshots/captioning.png
-assets/screenshots/vqa.png
-assets/screenshots/evaluation.png
-```
-
----
-
 # Future Improvements
 
 * Add support for more advanced models such as BLIP-2 or LLaVA
@@ -254,5 +241,7 @@ assets/screenshots/evaluation.png
 
 **Vishal**
 Roll No.: 220150029
+
 DA627 – Building Multimodal GenAI
+
 Indian Institute of Technology Guwahati
