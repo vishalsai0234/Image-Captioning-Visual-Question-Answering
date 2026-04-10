@@ -240,8 +240,5 @@ What is the person holding?
 # Author
 
 **Vishal**
-Roll No.: 220150029
-
-DA627 – Building Multimodal GenAI
 
 Indian Institute of Technology Guwahati
