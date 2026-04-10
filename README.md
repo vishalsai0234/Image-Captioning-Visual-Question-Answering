@@ -52,10 +52,6 @@ DA627-VQA-Captioning/
 │   ├── image5.jpg
 │   └── image6.jpg
 │
-├── datasets/
-│   ├── Flickr8k/
-│   └── VQA/
-│
 └── streamlit_results/
     ├── Home page.png
     ├── Image caption generation.png
@@ -68,6 +64,16 @@ DA627-VQA-Captioning/
 ---
 
 # Software Architecture
+
+## `Image Captioning & VQA.ipynb`
+
+Jupyter notebook containing:
+
+- Data preprocessing and cleaning
+- Exploratory analysis of the Flickr8k and VQA datasets
+- Model loading and testing for image captioning and visual question answering
+- Qualitative examples with sample images, generated captions, and predicted answers
+- Initial experiments and evaluation before integration into the Streamlit application
 
 ## `models.py`
 
