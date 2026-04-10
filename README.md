@@ -9,7 +9,7 @@ This project implements two core vision–language tasks:
 
 The system is built using pretrained vision–language models from Hugging Face and provides an interactive web interface using Streamlit.
 
-![Uploading 02.png…]()
+<img width="1920" height="931" alt="02" src="https://github.com/user-attachments/assets/22a80458-bfb4-4a79-96d7-308f5bb03f4b" />
 
 ---
 
