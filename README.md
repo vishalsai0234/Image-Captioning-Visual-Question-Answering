@@ -9,6 +9,8 @@ This project implements two core vision–language tasks:
 
 The system is built using pretrained vision–language models from Hugging Face and provides an interactive web interface using Streamlit.
 
+![Uploading 02.png…]()
+
 ---
 
 # Features
@@ -37,29 +39,30 @@ The system is built using pretrained vision–language models from Hugging Face 
 DA627-VQA-Captioning/
 │
 ├── app.py
-├── models.py
 ├── evaluation.py
+├── models.py
 ├── requirements.txt
-├── Image Captioning & VQA.ipynb
+├── Image Captioning & VQA.ipynb # Jupyter Notebook
 │
 ├── sample_images/
 │   ├── image1.jpg
 │   ├── image2.jpg
-│   └── ...
+│   ├── image3.jpg
+│   ├── image4.jpg
+│   ├── image5.jpg
+│   └── image6.jpg
 │
 ├── datasets/
 │   ├── Flickr8k/
 │   └── VQA/
 │
-├── results/
-│   ├── generated_captions.csv
-│   ├── vqa_predictions.csv
-│   └── evaluation_scores.csv
-│
-└── assets/
-    ├── screenshots/
-    ├── architecture.png
-    └── ...
+└── streamlit_results/
+    ├── Home page.png
+    ├── Image caption generation.png
+    ├── Visual question answering.png
+    ├── Evaluation - Caption Metrics.png
+    ├── Evaluation - VQA Accuracy.png
+    └── Project Overview.png
 ```
 
 ---
