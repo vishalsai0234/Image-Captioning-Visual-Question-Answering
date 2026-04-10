@@ -1,0 +1,12 @@
+streamlit
+torch
+torchvision
+transformers
+pillow
+requests
+matplotlib
+nltk
+rouge-score
+numpy
+pandas
+plotly
